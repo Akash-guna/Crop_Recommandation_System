@@ -1,2 +1,2 @@
 # Crop_Recommandation_System
-Conpleted Repo  
+Completed Repositiory of My DBMS Project Crop Recommender System and all its Machine Learning Components.

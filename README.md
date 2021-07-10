@@ -7,3 +7,6 @@ DESCRIPTION:
 Server Folder Contains the Flask Application , HTML ,CSS Files of websites , thier corresponding static files and a sqlite database which is our primary database.
 
 Ml Folder Contains THe Weather Detection and Nutrient based Detection Models, Data Pre Processing Code , Data Scraped From Internet.
+          - Nutrient model is a classification model which outputs suitable crop to be sown using soil data.
+          - Weather Model is a RNN model which was trined on previous weather information of 5 cities scraped from an API.
+          
